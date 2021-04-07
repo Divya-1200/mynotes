@@ -1,6 +1,6 @@
-baseURL = "https://tactlabs.github.io/hugobase/"
+baseURL = "https://github.com/Divya-1200/mynotes/"
 languageCode = "en-us"
-title = "John Doe"
+title = "Divya"
 theme = "berbera"
 
 pygmentsCodeFences=true
