@@ -1,4 +1,4 @@
-baseURL = "https://github.com/Divya-1200/mynotes/"
+baseURL = "https://tactlabs.github.io/hugobase/"
 languageCode = "en-us"
 title = "Divya"
 theme = "berbera"
